@@ -1,0 +1,9 @@
+{
+  "prompt": "A Japanese Edo-period Ukiyo-e woodblock print of a Deep Learning Artificial Neural Network. Strict isometric perspective of a traditional wooden courtyard. NO digital glow, NO modern shading, NO light bloom. The network nodes are unlit, flat-colored paper lanterns hanging from physical wooden architecture. Thick, physical red hemp ropes connect the lanterns, physically tied with visible knots to represent network weights. The ropes sag slightly with gravity. ABSOLUTELY NO TEXT, NO english letters, NO romaji, NO modern labels or UI boxes. Visual grammar strictly adheres to Ukiyo-e: flat unmodulated muted indigo and ochre colors, crisp black sumi-e key-block outlines, strong visible woodgrain texture (baren marks) pressed into the paper. Pure traditional physical woodblock printing techniques only.",
+  "model": "Gemini 3.1 Pro",
+  "concept": "Deep Learning / Artificial Neural Networks",
+  "tradition_name": "Japanese Edo-period Ukiyo-e Woodblock Print",
+  "tradition_period": "1790s–1830s",
+  "tradition_approach": "Targeted flat unmodulated colors, crisp key-block outlines, and visible woodgrain. Used physical hemp ropes and unlit lanterns in isometric perspective to map network layers. Strictly avoided digital lighting, modern typography, and vector overlays.",
+  "publish_email": true
+}
